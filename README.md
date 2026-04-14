@@ -43,8 +43,10 @@ cd Explainable-AI
 ## ▶️ How to Run
 
 ### Step 1: Prepare Dataset
-- Place your dataset inside a folder in google drive  
-- Dataset -> https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000
+- Dataset  from kaggle-> https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000
+- Datset in google dive -> https://drive.google.com/drive/folders/1b4COCKMs7poqtFpUh4rfPiww23a6cDpG?usp=sharing
+
+- Either download the dataset from kaggle or google drive link.
 
 ### Step 2: Train the Model
 - Open `notebook.ipynb`
